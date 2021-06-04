@@ -65,7 +65,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.test.redirectTestOutputToFile>true</maven.test.redirectTestOutputToFile>
 		<junit.version>5.7.0</junit.version>
-		<apache.httpclient.version>4.5.8</apache.httpclient.version>
+		<apache.httpclient.version>4.5.13</apache.httpclient.version>
 	</properties>
 
 	<dependencies>
